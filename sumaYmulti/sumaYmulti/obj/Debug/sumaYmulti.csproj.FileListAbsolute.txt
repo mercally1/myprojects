@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaYmulti\sumaYmulti\bin\Debug\sumaYmulti.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaYmulti\sumaYmulti\bin\Debug\sumaYmulti.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaYmulti\sumaYmulti\bin\Debug\sumaYmulti.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaYmulti\sumaYmulti\obj\Debug\sumaYmulti.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaYmulti\sumaYmulti\obj\Debug\sumaYmulti.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaYmulti\sumaYmulti\obj\Debug\sumaYmulti.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaYmulti\sumaYmulti\obj\Debug\sumaYmulti.pdb

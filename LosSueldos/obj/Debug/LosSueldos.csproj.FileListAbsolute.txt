@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\LosSueldos\bin\Debug\LosSueldos.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\LosSueldos\bin\Debug\LosSueldos.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\LosSueldos\bin\Debug\LosSueldos.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\LosSueldos\obj\Debug\LosSueldos.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\LosSueldos\obj\Debug\LosSueldos.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\LosSueldos\obj\Debug\LosSueldos.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\LosSueldos\obj\Debug\LosSueldos.pdb

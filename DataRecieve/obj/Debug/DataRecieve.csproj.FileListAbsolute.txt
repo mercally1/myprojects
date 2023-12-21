@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\DataRecieve\bin\Debug\DataRecieve.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\DataRecieve\bin\Debug\DataRecieve.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\DataRecieve\bin\Debug\DataRecieve.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\DataRecieve\obj\Debug\DataRecieve.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\DataRecieve\obj\Debug\DataRecieve.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\DataRecieve\obj\Debug\DataRecieve.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\DataRecieve\obj\Debug\DataRecieve.pdb

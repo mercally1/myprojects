@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\SueldoVector\bin\Debug\SueldoVector.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\SueldoVector\bin\Debug\SueldoVector.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\SueldoVector\bin\Debug\SueldoVector.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\SueldoVector\obj\Debug\SueldoVector.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\SueldoVector\obj\Debug\SueldoVector.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\SueldoVector\obj\Debug\SueldoVector.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\SueldoVector\obj\Debug\SueldoVector.pdb

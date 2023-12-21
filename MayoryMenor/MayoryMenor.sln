@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayoryMenor", "MayoryMenor.csproj", "{AB97093E-B016-4DD1-B709-6FDE17F0FA72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB97093E-B016-4DD1-B709-6FDE17F0FA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB97093E-B016-4DD1-B709-6FDE17F0FA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB97093E-B016-4DD1-B709-6FDE17F0FA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB97093E-B016-4DD1-B709-6FDE17F0FA72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {344DDD23-E037-4C0E-A0E3-C02EA58B18E1}
+	EndGlobalSection
+EndGlobal

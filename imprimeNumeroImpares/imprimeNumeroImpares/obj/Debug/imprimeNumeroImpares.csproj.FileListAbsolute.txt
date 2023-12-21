@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\imprimeNumeroImpares\imprimeNumeroImpares\bin\Debug\imprimeNumeroImpares.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\imprimeNumeroImpares\imprimeNumeroImpares\bin\Debug\imprimeNumeroImpares.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\imprimeNumeroImpares\imprimeNumeroImpares\bin\Debug\imprimeNumeroImpares.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\imprimeNumeroImpares\imprimeNumeroImpares\obj\Debug\imprimeNumeroImpares.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\imprimeNumeroImpares\imprimeNumeroImpares\obj\Debug\imprimeNumeroImpares.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\imprimeNumeroImpares\imprimeNumeroImpares\obj\Debug\imprimeNumeroImpares.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\imprimeNumeroImpares\imprimeNumeroImpares\obj\Debug\imprimeNumeroImpares.pdb

@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\CondicionCompuesta\CondicionCompuesta\bin\Debug\CondicionCompuesta.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\CondicionCompuesta\CondicionCompuesta\bin\Debug\CondicionCompuesta.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\CondicionCompuesta\CondicionCompuesta\bin\Debug\CondicionCompuesta.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\CondicionCompuesta\CondicionCompuesta\obj\Debug\CondicionCompuesta.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\CondicionCompuesta\CondicionCompuesta\obj\Debug\CondicionCompuesta.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\CondicionCompuesta\CondicionCompuesta\obj\Debug\CondicionCompuesta.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\CondicionCompuesta\CondicionCompuesta\obj\Debug\CondicionCompuesta.pdb

@@ -1,0 +1,2 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\suel 3000\suel 3000\bin\Debug\suel 3000.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\suel 3000\suel 3000\bin\Debug\suel 3000.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\suel 3000\suel 3000\bin\Debug\suel 3000.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\suel 3000\suel 3000\obj\Debug\suel 3000.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\suel 3000\suel 3000\obj\Debug\suel 3000.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\suel 3000\suel 3000\obj\Debug\suel 3000.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\suel 3000\suel 3000\obj\Debug\suel 3000.pdb

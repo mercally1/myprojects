@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\archivoPrueba\bin\Debug\archivoPrueba.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\archivoPrueba\bin\Debug\archivoPrueba.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\archivoPrueba\bin\Debug\archivoPrueba.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\archivoPrueba\obj\Debug\archivoPrueba.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\archivoPrueba\obj\Debug\archivoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\archivoPrueba\obj\Debug\archivoPrueba.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\archivoPrueba\obj\Debug\archivoPrueba.pdb

@@ -1,0 +1,2 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\MayoryMenor\obj\Debug\MayoryMenor.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\MayoryMenor\obj\Debug\MayoryMenor.csproj.CoreCompileInputs.cache

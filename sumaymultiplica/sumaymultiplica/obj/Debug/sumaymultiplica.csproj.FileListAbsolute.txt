@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaymultiplica\sumaymultiplica\obj\Debug\sumaymultiplica.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaymultiplica\sumaymultiplica\obj\Debug\sumaymultiplica.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaymultiplica\sumaymultiplica\bin\Debug\sumaymultiplica.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaymultiplica\sumaymultiplica\bin\Debug\sumaymultiplica.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaymultiplica\sumaymultiplica\bin\Debug\sumaymultiplica.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaymultiplica\sumaymultiplica\obj\Debug\sumaymultiplica.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\sumaymultiplica\sumaymultiplica\obj\Debug\sumaymultiplica.pdb

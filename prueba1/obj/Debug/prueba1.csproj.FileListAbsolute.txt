@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\prueba1\bin\Debug\prueba1.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\prueba1\bin\Debug\prueba1.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\prueba1\bin\Debug\prueba1.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\prueba1\obj\Debug\prueba1.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\prueba1\obj\Debug\prueba1.pdb
