@@ -1,0 +1,7 @@
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\ejercicioconvectores\bin\Debug\ejercicioconvectores.exe.config
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\ejercicioconvectores\bin\Debug\ejercicioconvectores.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\ejercicioconvectores\bin\Debug\ejercicioconvectores.pdb
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\ejercicioconvectores\obj\Debug\ejercicioconvectores.csproj.AssemblyReference.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\ejercicioconvectores\obj\Debug\ejercicioconvectores.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\ejercicioconvectores\obj\Debug\ejercicioconvectores.exe
+C:\Users\jmerc\Documents\C# y material de apoyo\projects\ejercicioconvectores\obj\Debug\ejercicioconvectores.pdb
